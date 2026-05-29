@@ -90,8 +90,8 @@ airbnb-price-prediction-ml/
 │   └── LONlistings.csv        # Raw dataset (not tracked by git)
 ├── 349Analysis.R              # Full analysis script
 ├── 349Markdown.pdf            # Report with figures and results
-├── REQUIREMENTS.md            # Package and setup requirements
-└── README.md
+├── README.md
+└── REQUIREMENTS.md            # Package and setup requirements
 ```
 
 ---
