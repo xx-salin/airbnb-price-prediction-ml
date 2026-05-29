@@ -87,7 +87,7 @@ Both Elastic Net and Random Forest identified **neighbourhood, accommodates, and
 ```
 airbnb-price-prediction-ml/
 ├── data/
-│   └── LONlistings.csv        # Raw dataset (not tracked by git)
+│   └── data.md                # Link to dropbox with raw .csv dataset
 ├── 349Analysis.R              # Full analysis script
 ├── 349Markdown.pdf            # Report with figures and results
 ├── README.md
